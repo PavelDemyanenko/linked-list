@@ -1,0 +1,1 @@
+ O(1) is for insertion and deletion at the beginning and end of the list.
